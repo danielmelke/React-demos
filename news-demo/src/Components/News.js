@@ -5,7 +5,7 @@ import Article from './Article';
 function News() {
     const data = useContext(APIHandler).data;
     return (
-        <div className="row">
+        <div className="row justify-content-around">
             {(data.articles !== undefined) ? data.articles.map((news) => (
                 <Article data={news} key={news.url} />
             ))

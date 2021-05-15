@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <APIHandlerProvider>
-        <h1 className="text-center my-5">Top tech hírek</h1>
+        <h1 className="text-center my-5">Top tech hírek - Magyarország</h1>
         <div className="container">
           <News />
         </div>
