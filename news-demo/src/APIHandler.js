@@ -18,7 +18,6 @@ const axiosInstance = axios.create({
     adapter: cache.adapter
 });
 
-
 export const APIHandlerProvider = (props) => {
     const [data, setData] = useState([]);
 

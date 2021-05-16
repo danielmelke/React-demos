@@ -20,6 +20,10 @@ h1 {
   text-align: center;
 }
 
+.container-fill {
+  width: 98%;
+}
+
 .article-box {
   border: 1px solid #ffffff;
   border-radius: 30px;
