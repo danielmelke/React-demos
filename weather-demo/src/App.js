@@ -19,7 +19,7 @@ const axiosInstance = axios.create({
   adapter: cache.adapter
 });
 
-const apiKey = '86ff7abe9eae9d2260427a808a5a3931';
+const apiKey = ''; // API key required to work
 
 function App() {
   const [ data, setData ] = useState([]);
