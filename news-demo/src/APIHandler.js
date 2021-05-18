@@ -26,7 +26,7 @@ export const APIHandlerProvider = (props) => {
             params: {
                 country: 'hu',
                 category: 'technology',
-                apiKey: "---" // API key goes here
+                apiKey: "e55d92c0a1a44d3bb990de41af33ef21"
             }
         })
         .then((response) => setData(response.data))

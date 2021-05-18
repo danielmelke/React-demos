@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background-color: rgb(65, 65, 65);
+    margin: 0;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+.weather-container {
+    padding-left: 10px;
+    width: 99%;
+}
+
+.weather-icon {
+    width: 64px;
+}
+
+.current-table {
+    height: 300px;
+}
+
+@media screen and (max-width: 768px){
+    * {
+        font-size: 16px;
+    }
+
+    .current-table {
+        height: 200px;
+    }
+    
+    .forecast-table tr {
+        display: table;
+        width: 100%;
+    }
+
+    .forecast-table th {
+        display: none;
+    }
+
+    .forecast-table td {
+        display: table-row;
+        text-align: center;
+        height: 40px;
+    }
+}

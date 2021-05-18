@@ -1,16 +1,39 @@
 import './App.css';
 import {useEffect, useState} from 'react';
 import Coin from './Coin';
+import axios from 'axios';
+import { setupCache } from 'axios-cache-adapter';
+import localforage from 'localforage';
+
+const cache = setupCache({
+  maxAge: 60 * 60 * 1000,
+  store: localforage,
+  exclude: {
+      query: false
+  }
+});
+
+const axiosInstance = axios.create({
+  baseURL: "https://api.coingecko.com/api/v3/coins/markets",
+  adapter: cache.adapter
+});
 
 function App() {
   const [coinData, setCoinData] = useState([]);
   const [selectedOption, setSelectedOption] = useState('huf');
 
   useEffect(() => {
-    fetch(`https://api.coingecko.com/api/v3/coins/markets?vs_currency=${selectedOption}&order=market_cap_desc&per_page=30&page=1&sparkline=false`)
-    .then(res => res.json())
-    .then(data => {
-      setCoinData(data);
+    axiosInstance.get('', {
+      params: {
+        vs_currency: selectedOption,
+        order: 'market_cap_desc',
+        per_page: '30',
+        page: '1',
+        sparkline: 'false'
+      }
+    })
+    .then(response => {
+      setCoinData(response.data);
     })
     .catch(err => {alert("Something went wrong :(");console.error(err);});
   }, [selectedOption]);
@@ -37,13 +60,14 @@ function App() {
           </select>
         </div>
     );
-  };
+  }
   
   return (
-    <div className="container">
-      <h1 className="text-center">Top 30 crypto-currencies by current market cap value</h1>
+    <div className="container-fill">
+      <h1 className="text-center my-3">Top 30 crypto-currencies</h1>
+      <h3 className="text-center my-3">by current market cap value</h3>
       {Dropdown(options)}
-      <div className="row">
+      <div className="row justify-content-around">
         {
           coinData.map(coin => {
             return (

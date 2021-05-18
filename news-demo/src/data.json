@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Origo.hu"
+        },
+        "author": null,
+        "title": "Most épp sípolással bosszant a Windows 10 - Origo",
+        "description": "Hatcsatornás hangrendszerek használatakor jelentkezhet a bug.",
+        "url": "https://www.origo.hu/techbazis/20210515-windows-10-51-hangrendszer-sipolas.html",
+        "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2105/20210515windows-10.jpg",
+        "publishedAt": "2021-05-16T08:07:00Z",
+        "content": "Hatcsatornás hangrendszerek használatakor jelentkezhet a bug.Egyelre úgy tnik, hogy a Windows 10 májusi hibajavító kedden elérhetvé vált frissítései nem okoztak komoly gondokat, ám fény derült egy vi… [+907 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hvg.hu"
+        },
+        "author": "HVG Kiadó Zrt.",
+        "title": "Tech: Játékonzolt adhat ki az Apple | hvg.hu - hvg.hu",
+        "description": "Az almás cég egyszer már megpróbált betörni a konzolpiacra, de az a termék nem jól sikerült jól. Most fordulhat a kocka.",
+        "url": "https://hvg.hu/tudomany/20210516_apple_konzol_nintendo_switch",
+        "urlToImage": "https://images.hvg.hu/image.jpg?id=d0076536-5fde-4677-b5a6-306cc2965db5&view=7fcefbf8-ac48-4ee6-aef5-32203afa118c",
+        "publishedAt": "2021-05-16T06:06:19Z",
+        "content": "Az almás cég egyszer már megpróbált betörni a konzolpiacra, de az a termék nem jól sikerült jól. Most fordulhat a kocka.A Nintendo Switch mintájára saját, hordozható kézi konzolt fejleszt az Apple le… [+1406 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Index.hu"
+        },
+        "author": "Papdi-Pécskői Viktor",
+        "title": "Betör a mobilpiacra a japán kenyérpirítógyár - Index.hu",
+        "description": "Betör a mobilpiacra a japán kenyérpirítógyár - Reszkethet az Apple és a Samsung.",
+        "url": "https://index.hu/tech/cellanaplo/2021/05/16/balmuda-kenyerpirito-mobiltelefon-softbank-kyocera-moma-diazjn/",
+        "urlToImage": "https://kep.cdn.index.hu/1/0/3802/38027/380270/38027087_2901551_f9889a3c1ea03c0632d891769eddd58e_wm.jpg",
+        "publishedAt": "2021-05-16T05:21:00Z",
+        "content": "Nem akármilyen kenyérpirítóról van szó, hanem a világ egyik legjobbjáról. Reszkethet az Apple és a Samsung. \r\nA japán Balmuda bejelentette, hogy mobiltelefont dob piacra. A dizájncég készül termékérl… [+906 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Origo.hu"
+        },
+        "author": null,
+        "title": "Kedvező áron és remek tudással jön a ZTE Axon 30 Ultra - Origo",
+        "description": "Nagyszerű kamerarendszere és erős hardvere ellenére csak 749 euróba kerül majd a ZTE Axon 30 Ultra.",
+        "url": "https://www.origo.hu/techbazis/20210514-zte-axon-30-ultra-europa-vetelar.html",
+        "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2105/20210514zte-axon-30-ultra4.jpeg",
+        "publishedAt": "2021-05-16T04:19:00Z",
+        "content": "Nagyszer kamerarendszere és ers hardvere ellenére csak 749 euróba kerül majd a ZTE Axon 30 Ultra.A kínai ZTE május 27-én indítja el a legújabb csúcsmobiljának, az Axon 30 Ultrának az elrendelését. A … [+770 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Napi.hu"
+        },
+        "author": "Rácz Gergő",
+        "title": "Megdöbbentő újítással téveszti meg az ember szemét a mesterséges intelligencia - Napi.hu - Napi.hu",
+        "description": "Az új technológiával a számítógépes játék is úgy fest, hogy azt már szinte meg sem lehet különböztetni a valóságtól. Az újítás mögött mesterséges intelligencia áll.",
+        "url": "https://www.napi.hu/tech/grand-theft-auto-grafika-intel-mesterseges-intelligencia.729172.html",
+        "urlToImage": "https://www.napi.hu/fototar/fototar/202105/orig/image1621107686.jpg/800/?v=2021051301",
+        "publishedAt": "2021-05-15T19:52:00Z",
+        "content": "Az Intel kutatói a héten egy olyan új eljárást lepleztek le, aminek segítségével még az eddiginél is élethbbé lehet tenni a számítógépek által generált virtuális világok és animációk megjelenését írj… [+773 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Origo.hu"
+        },
+        "author": null,
+        "title": "Köröket ver a riválisokra az M1 processzoros iPad Pro - Origo",
+        "description": "A 2021-es, 12,9 hüvelykes Apple iPad Pro táblagép teljesítménye sok laptopot is megszégyenít.",
+        "url": "https://www.origo.hu/techbazis/20210514-2021-apple-ipad-pro-teljesitmeny-koroket-ver-rivalisokra.html",
+        "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2105/20210514apple-ipad-pro4.jpg",
+        "publishedAt": "2021-05-15T18:43:00Z",
+        "content": "A 2021-es, 12,9 hüvelykes Apple iPad Pro táblagép teljesítménye sok laptopot is megszégyenít.Az Apple idei, M1 processzoros iPad Pro táblagépei 11 és 12,9 hüvelykes méretekben létezik, és néhány héte… [+795 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Origo.hu"
+        },
+        "author": null,
+        "title": "Wear OS rendszerrel jönnek a Samsung Galaxy Watch 4 okosórák - Origo",
+        "description": "Állítólag a Google rendszerére épít majd a Galaxy Watch 4 és a Galaxy Watch Active 4, de vércukorszintet egyik sem tud majd mérni.",
+        "url": "https://www.origo.hu/techbazis/20210514-samsung-galaxy-watch-4-okosora-wear-os.html",
+        "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2105/20210514samsung-galaxy-watch-3.jpg",
+        "publishedAt": "2021-05-15T17:37:00Z",
+        "content": "Állítólag a Google rendszerére épít majd a Galaxy Watch 4 és a Galaxy Watch Active 4, de vércukorszintet egyik sem tud majd mérni.Meglehetsen zsúfolt lesz a Samsung következ nagy Unpacked rendezvénye… [+957 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kriptoworld.hu"
+        },
+        "author": "Kriptoworld",
+        "title": "A bálnatárcák száma 16%-kal csökkent február óta - Kriptoworld.hu",
+        "description": "Miközben a bitcoin egyre szebb képet fest a pénteki gyomorforgató gödör után, a láncot vizsgálva az derül ki",
+        "url": "https://www.kriptoworld.hu/a-balnatarcak-szama-16-kal-csokkent-februar-ota/",
+        "urlToImage": "https://www.kriptoworld.hu/wp-content/uploads/2019/05/bitcoinbálna-1.jpg",
+        "publishedAt": "2021-05-15T17:28:29Z",
+        "content": "Miközben a bitcoin egyre szebb képet fest a pénteki gyomorforgató gödör után, a láncot vizsgálva az derül ki, hogy a magas nettó vagyonnal rendelkez bálnák tárcáinak száma folyamatosan csökken.\r\nA bi… [+1818 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Computerworld.hu"
+        },
+        "author": "M.Z.",
+        "title": "A Microsoft állítólag a Chrome OS versenytársának szánja a Windows 10X-et - Computerworld Online",
+        "description": "Redmond most inkább a Windows magjának javítására összpontosít.",
+        "url": "https://computerworld.hu/cio/a-microsoft-allitolag-a-chrome-os-versenytarsanak-szanja-a-windows-10x-et-294146.html",
+        "urlToImage": "https://i.cdn29.hu/apix_collect_c/2007/windows-10x/windows_10x_screenshot_20210511164207_1_original_760x425_cover.jpg",
+        "publishedAt": "2021-05-15T16:08:40Z",
+        "content": "Redmond most inkább a Windows magjának javítására összpontosít.A Microsoft már több mint 10 éve próbálkozik a Windows könnyített változatának elkészítésével, de sikertelenül. A legutóbbi próbálkozást… [+2968 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Computerworld.hu"
+        },
+        "author": "M.Z.",
+        "title": "Az IBM új chiptechnológiája és Moore-törvénye - Computerworld Online",
+        "description": "Jelenleg is vita folyik arról, hogy melyik új szám vagy számkombináció tükrözi jobban a fejlődést.",
+        "url": "https://computerworld.hu/tech/az-ibm-uj-chiptechnologiaja-es-moore-torvenye-294302.html",
+        "urlToImage": "https://i.cdn29.hu/apix_collect_c/2007/ibm-misc/ibm_misc_screenshot_20210515145353_1_original_760x425_cover.jpg",
+        "publishedAt": "2021-05-15T12:58:33Z",
+        "content": "Jelenleg is vita folyik arról, hogy melyik új szám vagy számkombináció tükrözi jobban a fejldést.A számítógépes chipek globális hiánya, amelyet a kereslet ingadozása és az ellátási lánc szakadozása i… [+3931 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hvg.hu"
+        },
+        "author": "HVG Kiadó Zrt.",
+        "title": "Vállalkozás: Startupok ritka példányait keresi Novák Katalin | hvg.hu - hvg.hu",
+        "description": "Pályázatot hirdet családokat segítő, okos megoldásokat nyújtó startup vállalkozásoknak az újonnan megalakult, családokat segítő innovatív központ, a Kincs Smart Family Centrum - jelentette be Novák Katalin, a családokért felelős tárca nélküli miniszter szomba…",
+        "url": "https://hvg.hu/kkv/20210515_Startupok_ritka_peldanyait_keresi_Novak_Katalin",
+        "urlToImage": "https://images.hvg.hu/image.jpg?id=a6237839-89df-4620-8255-46cadc566152&view=7fcefbf8-ac48-4ee6-aef5-32203afa118c",
+        "publishedAt": "2021-05-15T10:59:00Z",
+        "content": "Pályázatot hirdet családokat segít, okos megoldásokat nyújtó startup vállalkozásoknak az újonnan megalakult, családokat segít innovatív központ, a Kincs Smart Family Centrum - jelentette be Novák Kat… [+1748 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sg.hu"
+        },
+        "author": null,
+        "title": "Sg.hu - Alapvető változásokat sürget az Ecosia keresőcég - SG.hu",
+        "description": "Alapvető változásokat sürget az Ecosia keresőcég",
+        "url": "https://sg.hu/cikkek/it-tech/145498/alapveto-valtozasokat-surget-az-ecosia-keresoceg",
+        "urlToImage": "https://sg.hu/https://media.sg.hu/kep/2021_05/0514ecosia2.jpg",
+        "publishedAt": "2021-05-15T10:22:14Z",
+        "content": "Egyre sikeresebb a védd a bolygót, ültess a fákat elgondolás.Az Ecosia egy internetes kerescég és közösségi vállalkozás, amely a nyereségének 80 százalékát olyan nonprofit szervezeteknek ajánlja fel,… [+3961 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Autopro.hu"
+        },
+        "author": "autopro.hu - Trivero Kft.",
+        "title": "A hidrogén lehet a legjobb zöldenergia-forrás - Autopro.hu",
+        "description": "Mint üzemanyag, a hidrogén lehet a legjobb megoldás hosszútávon.",
+        "url": "https://autopro.hu/trend/a-hidrogen-lehet-a-legjobb-zoldenergia-forras/503627",
+        "urlToImage": "https://autopro.cscdn.hu/img/lead/482105/hidrogén_töltő_alternativ_töltőállomás_13ee46b4b997952a6a5e326a297dfeb6.jpg",
+        "publishedAt": "2021-05-15T10:22:00Z",
+        "content": "A közlekedés komoly átalakuláson megy keresztül, a bels égés motorok háttérbe fognak szorulni, a helyüket átveszik az elektromos autók. Ez egy viszonylag ismert közhely, ám az, hogy mit jelent részle… [+3956 chars]"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Nagy Péter",
+        "title": "Vegyes volt a Mass Effect Legendary Edition kezdeti értékelése a Steamen, lássuk az okait! - IGN Hungary",
+        "description": "Hiányos PC-port?",
+        "url": "https://hu.ign.com/mass-effect-legendary-edition/67500/news/vegyes-volt-a-mass-effect-legendary-edition-kezdeti-ertekelese-a-steamen-lassuk-az-okait",
+        "urlToImage": "https://sm.ign.com/t/ign_hu/screenshot/default/blob_k8qh.1200.jpg",
+        "publishedAt": "2021-05-15T09:57:38Z",
+        "content": "Tegnap végre megjelent a Mass Effect Legendary Edition, amely többek között a Steamen is elérhetvé vált. Mikor ezt a cikket írom, a feljavított trilógia értékelése a Valve online játékboltjában 77%-o… [+2872 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bitport.hu"
+        },
+        "author": null,
+        "title": "Kamerákkal és MI-vel kukkolják a bankok az alkalmazottaikat – és az ügyfeleiket - Bitport",
+        "description": "Jobban dolgozó alkalmazottakat és jobban költő ügyfeleket szeretnének. Az Amazon pénztár nélküli boltjától is tanulnak.",
+        "url": "https://bitport.hu/kamerakkal-es-mi-vel-kukkoljak-a-bankok-az-alkalmazottaikat-es-az-ugyfeleiket",
+        "urlToImage": "https://bitport.hu/images/content/202105/focus/bank-face-recognition_bitport.png",
+        "publishedAt": "2021-05-15T08:33:59Z",
+        "content": "Egyre több bank kísérletezik a gépi látás hasznosításával. Miközben az arcfelismer és kamerás megfigyel rendszerek alkalmazása világszerte (kivéve Kínát) éles vitákat generál a rendpártiak és a magán… [+3561 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Portfolio.hu"
+        },
+        "author": "Portfolio.hu",
+        "title": "Hogyan veszíts el 9000 fontnyi bitcoin-t egy pillanat alatt? - Portfolio",
+        "description": "A bitcoin és általában a kriptodevizák piaca olyan, mint egy élénk kisgyerek: egy percig sem hagy nyugodni. A hasonlat amiatt is érdekes, hogy ezen eszközök árfolyama kevésbé érett viselkedést mutat, mint a legnagyobb, sok szereplős részvények, kötvények és h…",
+        "url": "https://www.portfolio.hu/uzlet/20210515/hogyan-veszits-el-9000-fontnyi-bitcoin-t-egy-pillanat-alatt-483212",
+        "urlToImage": "https://cdn.portfolio.hu/articles/images-xl/g/e/t/gettyimages-1227621620-452846.jpg",
+        "publishedAt": "2021-05-15T08:00:00Z",
+        "content": "Julie Bushnell egész biztosan nem úgy fog bevonulni a történelembe, mint a valaha volt legdörzsöltebb bitcoin befektet. A Brightonban él tanár minden megtakarítását, 9000 fontot bitcoinba fektetett, … [+5244 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kriptoworld.hu"
+        },
+        "author": "Kriptoworld",
+        "title": "A bitcoin jól tartja magát az eladási hullám ellenére - Kriptoworld.hu",
+        "description": "A héten a bitcoin piaca igazi próbát élt át. A tavaly márciusi nagy esés óta most küldtek be legnagyobb mennyiségben coinokat a tőzsdére",
+        "url": "https://www.kriptoworld.hu/a-bitcoin-jol-tartja-magat-az-eladasi-hullam-ellenere/",
+        "urlToImage": "https://www.kriptoworld.hu/wp-content/uploads/2020/06/bitcoin-9.jpg",
+        "publishedAt": "2021-05-15T06:32:41Z",
+        "content": "A héten a bitcoin piaca igazi próbát élt át. A tavaly márciusi nagy esés óta most küldtek be legnagyobb mennyiségben coinokat a tzsdére, az árfolyam viszont kisebb visszahúzódás mellett tartani tudta… [+3192 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Origo.hu"
+        },
+        "author": null,
+        "title": "Már chatelésre is használható a Gmail mobilapp origo.hu - Origo",
+        "description": "Egyelőre manuálisan kell aktiválni a legújabb funkcióját.",
+        "url": "https://www.origo.hu/techbazis/20210514-gmail-mobilapp-chat-cseveges.html",
+        "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2105/20210514gmail-google-chat.jpg",
+        "publishedAt": "2021-05-15T06:07:00Z",
+        "content": "Egyelre manuálisan kell aktiválni a legújabb funkcióját.Lassan befejezdik a Gmail teljes érték kommunikáció platformmá alakítása, a Meet videocseveg tavalyi integrálását követen most a szöveges chate… [+1081 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hvg.hu"
+        },
+        "author": null,
+        "title": "Nem tetszik az Orbán-kormánynak a szakmai szöszmötölés Paks II. ügyében - hvg.hu",
+        "description": "A nukleáris főhatóság vezetője épp az előtt mondott le, hogy esedékes lenne a hivatal döntése a sokmilliárdos bővítési munkák engedélyezéséről. Fichtinger Gyula utódját kétharmados többséggel, kilenc évre betonozzák be.",
+        "url": "https://hvg.hu/360/202119__paksi_beruhazas__hianyos_tervek__nyomas_alatt__folozesi_ido",
+        "urlToImage": "https://img4.hvg.hu/image.jpg?id=524e2672-65a4-4abe-b11f-d8c483331ed3&view=52010989-4ea0-4841-b4d6-f1852ac05bb4",
+        "publishedAt": "2021-05-15T04:52:30Z",
+        "content": "Radar 360Megvan a 3,5 millió beoltott, nyitnak a teraszok a jöv héten nyithatnak a mozik, színházak, éttermek. Vizsgálják a Szputnyik V-t. Visszavonták az orosz csapatokat az ukrán határról. Továbbra… [+166 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Origo.hu"
+        },
+        "author": null,
+        "title": "Ékszertervező alakította át a Samsung okosóráját - Origo",
+        "description": "A katalán Tous segített a Samsungnak a Galaxy Watch 3 különleges kiadásának megalkotásában.",
+        "url": "https://www.origo.hu/techbazis/20210513-samsung-tous-galaxy-watch-3-okosora-limitalt-kiadas.html",
+        "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2105/20210513samsung-galaxy-watch-3-limitalt.jpg",
+        "publishedAt": "2021-05-15T04:23:00Z",
+        "content": "A katalán Tous segített a Samsungnak a Galaxy Watch 3 különleges kiadásának megalkotásában.A Samsung és a Tous, egy katalán ékszertervez együttmködésének hála elkészült a 41 mm-es Galaxy Watch 3 okos… [+601 chars]"
+      }
+    ]
+  }

@@ -17,11 +17,15 @@ function Coin({data, lang}) {
     }
 
     return (
-        <div className="col-md-4 coin-container py-3 my-3">
-            <h1 className="coin-name">{data.name}({data.symbol.toUpperCase()})</h1>
+        <div className="col-md-5 col-xl-3 coin-container py-1 my-2 mx-1">
+            <h4>{data.name}({data.symbol.toUpperCase()})</h4>
             <img src={data.image} alt={data.name} title={data.name} className="img img-fluid coin-img my-1"></img>
-            <p className="coin-data">Current price: {data.current_price.toLocaleString()} {curr}</p>
-            <p className="coin-data">Current market cap: {data.market_cap.toLocaleString()} {curr}</p>
+            <div className="row">
+                <div className="col-12 my-1 text-center">Current price:</div>
+                <div className="col-12 my-1 text-center">{data.current_price.toLocaleString()} {curr}</div>
+                <div className="col-12 my-1 text-center">Current market cap:</div>
+                <div className="col-12 my-1 text-center">{data.market_cap.toLocaleString()} {curr}</div>
+            </div>
         </div>
     )
 }

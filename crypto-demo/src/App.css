@@ -1,34 +1,55 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
-* {
-  font-family: 'Montserrat', sans-serif;
+html, body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: rgb(37, 37, 37);
+}
+
+#root {
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(37, 37, 37);
   color: #ffffff;
 }
 
+#footer {
+  background-color: rgb(51, 51, 51);
+  height: 30px;
+  color: #ffffff;
+  font-size: 1.2rem;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.container-fill {
+  width: 80vw;
+  margin: auto;
+}
+
 .coin-container {
-  height: 250px;
+  min-height: 270px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1px solid rgb(0, 247, 255);
+  border: 2px solid rgb(0, 247, 255);
   border-radius: 40px;
-}
-
-.coin-name {
-  font-size: 28px;
+  box-shadow: 6px 6px rgba(0, 0, 0, 0.3);
+  transition: 0.2s;
 }
 
 .coin-img {
-  width: 80px;
+  width: 100px;
 }
 
 .coin-data {
   font-style: italic;
   font-weight: bold;
   font-size: 14px;
+}
+
+.coin-container:hover {
+  background-color: rgb(0, 128, 133);
+  transform: scale(1.05);
 }
